@@ -1,0 +1,14 @@
+{
+  "projectName": "Student Connect Africa",
+  "buildCommand": "npm run build",
+  "devCommand": "next dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "nodeVersion": "18.x",
+  "env": [
+    {
+      "key": "NEXT_PUBLIC_API_URL",
+      "value": "https://studentconnect.africa"
+    }
+  ]
+}
