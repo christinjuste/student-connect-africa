@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Connect Africa - Belgium
 
 A community platform for African students studying in Belgium to connect, share experiences, and help each other navigate life abroad.
